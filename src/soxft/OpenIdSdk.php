@@ -13,7 +13,7 @@ class OpenIdSdk
     /**
      * @var string api
      */
-    private static $api = 'https://9420.ltd/api';
+    private static $api = 'https://openid.cmds.run/api';
 
     /**
      * @var string
